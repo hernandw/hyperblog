@@ -1,4 +1,5 @@
 body {
+    background-color: #1e1f24;
     text-align: center;
     color: red;
     font-size: 16px;
@@ -15,6 +16,11 @@ body {
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+
+#cabecera #logo{
+    max-width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline {
@@ -35,4 +41,9 @@ body {
 #container h1 {
     font-size: 20px;
     color: red;
+}
+
+#post {
+    background-color: white;
+    scroll-padding: 1em;
 }
