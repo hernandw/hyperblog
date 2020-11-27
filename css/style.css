@@ -1,11 +1,7 @@
 body {
     background-color: #1e1f24;
     text-align: center;
-<<<<<<< HEAD
     color: blue;
-=======
-    color: red;
->>>>>>> master
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
     padding: 0;
@@ -22,9 +18,8 @@ body {
     padding: 0.5em;
 }
 
-#cabecera #logo{
-    max-width: 20px;
-    vertical-align: middle;
+#post {
+   padding: 1em;
 }
 
 #cabecera #tagline {
@@ -35,7 +30,7 @@ body {
 
 #container {
     width: 70%;
-    padding: 1em;
+    padding: 0px;
     text-align: left;
     border: 1px solid #000;
     margin: 0px auto;
@@ -47,7 +42,9 @@ body {
     color: red;
 }
 
-#post {
-    background-color: white;
-    scroll-padding: 1em;
+#footer {
+	background: #777;
+	color: white;
+	text-align: center;
+	padding: 0.5em;
 }
