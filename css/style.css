@@ -17,6 +17,10 @@ body {
     padding: 0.5em;
 }
 
+#post {
+   padding: 1em;
+}
+
 #cabecera #tagline {
     padding: 0 0 0 1em;
     font-weight: bold;
@@ -25,7 +29,7 @@ body {
 
 #container {
     width: 70%;
-    padding: 1em;
+    padding: 0px;
     text-align: left;
     border: 1px solid #000;
     margin: 0px auto;
@@ -35,4 +39,11 @@ body {
 #container h1 {
     font-size: 20px;
     color: red;
+}
+
+#footer {
+	background: #777;
+	color: white;
+	text-align: center;
+	padding: 0.5em;
 }
