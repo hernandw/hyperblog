@@ -1,4 +1,5 @@
 body {
+    background-color: #1e1f24;
     text-align: center;
 <<<<<<< HEAD
     color: blue;
@@ -21,6 +22,11 @@ body {
     padding: 0.5em;
 }
 
+#cabecera #logo{
+    max-width: 20px;
+    vertical-align: middle;
+}
+
 #cabecera #tagline {
     padding: 0 0 0 1em;
     font-weight: bold;
@@ -39,4 +45,9 @@ body {
 #container h1 {
     font-size: 20px;
     color: red;
+}
+
+#post {
+    background-color: white;
+    scroll-padding: 1em;
 }
