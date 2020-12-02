@@ -10,4 +10,6 @@ Es persistente y se está organizando para nunca parar de aprender
 
 master 1
 
+master 2
+
 Hoy trabaja en una librería en Arica
