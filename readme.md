@@ -8,3 +8,5 @@ Este es un blog para el curso de git y github de platzi.
 
 * creditos al team williams
 
+* incluye ejemplos en windows, linux y mac
+
