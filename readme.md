@@ -10,3 +10,5 @@ Este es un blog para el curso de git y github de platzi.
 
 * incluye ejemplos en windows, linux y mac
 
+* para todas las edades
+
