@@ -6,3 +6,5 @@ Este es un blog para el curso de git y github de platzi.
 * además de como conectar tu proyecto de manera local al repositorio de github.
 * aprendí además como hacer un pull request y un fork
 
+* creditos al team williams
+
